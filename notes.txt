@@ -1,0 +1,19 @@
+magic library notes
+
+MVP - features
+1. 'Personal' (user based) library that house total collection of Magic Cards.
+2. Allows for for entery of new cards by name.
+3. Should be able to search for cards by name.
+4. Should be able to filter through collection by name/type/color/cost/description???
+
+MVP - execution
+1. Created database... relational/non-relational???
+2. Create front-end page to enter card-library data into db.
+3. Create front-end page to see/filter through card library.
+
+2.0 Features
+1. Should be able to give precentage of deck completion based on mtggoldfish meta-game decks and current library contents
+2. Create front-end to build decks from collection/potetial cards. 
+
+Questions ???
+1. How do I make this avaliable for external personal use???
